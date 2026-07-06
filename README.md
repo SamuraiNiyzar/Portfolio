@@ -2,7 +2,7 @@
 
 Aspiring **Identity & Access Management (IAM) / Cybersecurity** professional. IT technician background, currently completing Microsoft's **AZ-500: Azure Security Technologies**, plus a self-built on-prem IAM home lab (Keycloak + Windows Server AD).
 
-📧 nazarij77777@gmail.com · 📍 Warsaw, Poland · [LinkedIn](#) *(add your link)*
+📧 nazarij77777@gmail.com · 📍 Blanes, Spain · [LinkedIn](https://www.linkedin.com/in/nazarii-savon-636b393b5) 
 
 ---
 

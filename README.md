@@ -51,12 +51,3 @@ Aspiring **Identity & Access Management (IAM) / Cybersecurity** professional. IT
 **Systems Admin:** Windows Server · Ubuntu Server
 **Scripting/IaC:** PowerShell · Azure CLI · ARM templates
 
----
-
-## 🚀 Deploying this portfolio (GitHub Pages)
-
-See [DEPLOY.md](./DEPLOY.md) for step-by-step instructions.
-
-## 📸 Adding screenshots
-
-Each lab file references images like `../screenshots/lab01-1.png`. Add your PNG/JPG files to the `screenshots/` folder using matching filenames — they'll render automatically on GitHub.

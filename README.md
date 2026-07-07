@@ -34,7 +34,7 @@
 | 09 | Defender for Cloud | Enabled Defender for Servers Plan 2, unlocking JIT VM access | [→](./labs/lab09.md) |
 | 10 | Just-in-Time VM Access | Configured & used time-boxed RDP access, verified prerequisites | [→](./labs/lab10.md) |
 | 11 | Microsoft Sentinel (SIEM/SOAR) | Built full detection→automation pipeline: KQL rule → incident → playbook, verified end-to-end | [→](./labs/lab11.md) |
-| 🏠 | **Home Lab:** Keycloak + Windows AD | Built AD domain (OUs, users, groups, service account) + Keycloak on Ubuntu for LDAP federation | [→](./labs/homelab.md) |
+| 🏠 | **OPEN SOURCE Lab:** Keycloak + Windows AD | Built AD domain (OUs, users, groups, service account) + Keycloak on Ubuntu for LDAP federation | [→](./labs/homelab.md) |
 
 *Each link opens a detailed write-up: objective, what was done, challenges & fixes, and screenshots.*
 

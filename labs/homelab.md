@@ -1,6 +1,6 @@
 [← Back to portfolio home](../README.md)
 
-# Home Lab — Keycloak (Ubuntu) + Windows Server Active Directory
+# Open Source Lab — Keycloak (Ubuntu) + Windows Server Active Directory
 
 **Objective:** Self-directed IAM lab outside the AZ-500 curriculum — stand up a Windows Server domain controller with a realistic Active Directory structure, and deploy Keycloak on Ubuntu Server as an external Identity Provider, federated to that AD via LDAP.
 

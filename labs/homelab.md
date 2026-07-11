@@ -47,10 +47,10 @@
 **Status:** ✅ AD domain, OU structure, users, groups, and service account complete and verified · 🔜 Keycloak LDAP User Federation configuration in progress
 
 <p>
-  <img src="../screenshots/homelab-1.png" width="45%" alt="Active Directory Users and Computers showing IAM-Lab OU structure" />
-  <img src="../screenshots/homelab-2.png" width="45%" alt="PowerShell output verifying users, groups, and OUs" />
+  <img src="../screenshots/Homelab-login.jpg" width="45%" alt="Successful Log-in like a Alice(User)" />
+  <img src="../screenshots/Homelab-PWSH.jpg" width="45%" alt="PowerShell output verifying users, groups, and OUs" />
 </p>
 <p>
-  <img src="../screenshots/homelab-3.png" width="45%" alt="Ubuntu Server terminal showing Keycloak installation/service status" />
-  <img src="../screenshots/homelab-4.png" width="45%" alt="Keycloak admin console User Federation LDAP configuration" />
+  <img src="../screenshots/Homelab-Logs.jpg" width="45%" alt="Ubuntu Server terminal showing Keycloak installation/service status" />
+  <img src="../screenshots/Homelab-LDPA.jpg" width="45%" alt="Keycloak admin console User Federation LDAP configuration" />
 </p>
